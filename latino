@@ -10,7 +10,7 @@ http://179.51.163.250:8000/play/a002/index.m3u8
 #EXTINF:-1 ,America TV HD
 http://179.51.163.250:8000/play/a00b/index.m3u8
 #EXTINF:-1 ,PANAMERICANA HD
-http://170.81.240.10:8000/play/a004/index.m3u8
+http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/10640
 #EXTINF:-1 ,Exitosa HD
 http://179.51.163.250:8000/play/a02v/index.m3u8
 #EXTINF:-1 ,TV PERU
@@ -26,13 +26,13 @@ http://201.218.137.232:4123/play/a02b/index.m3u8
 #EXTINF:-1 ,Liga1 MAX HD
 http://179.51.163.250:8000/play/a02z/index.m3u8
 #EXTINF:-1 ,GLOBAL HD
-http://201.218.137.232:4123/play/a025/index.m3u8
+http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/2169944
 #EXTINF:-1 ,LA TELE HD
-http://201.218.137.232:4123/play/a02b/index.m3u8
+http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/2107635
 #EXTINF:-1 ,GOLPERU HD
 http://177.53.153.21:8001/play/a03z/index.m3u8
 #EXTINF:-1 ,TL NOVELAS HD
-http://179.51.168.13:4000/play/a067
+http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/154093
 #EXTINF:-1 ,Las Estrellas HD
 http://179.51.163.250:8000/play/a02g/index.m3u8
 #EXTINF:-1 ,Pasiones HD
@@ -82,7 +82,7 @@ http://200.24.204.242:6020/play/a0ea/index.m3u8
 #EXTINF:-1 ,FX
 http://200.24.204.242:6020/play/a09o/index.m3u8
 #EXTINF:-1 ,Fox Sports
-http://200.24.204.242:6020/play/a0a9/index.m3u8
+http://177.53.153.21:8001/play/a04e/index.m3u8
 #EXTINF:-1 ,Fox Sports 1
 http://200.24.204.242:6020/play/a0bn/index.m3u8
 #EXTINF:-1 ,Fox Sports 2
@@ -158,7 +158,7 @@ http://200.24.204.242:6020/play/a093/index.m3u8
 #EXTINF:-1 ,Televicentro
 http://200.24.204.242:6020/play/a0dx/index.m3u8
 #EXTINF:-1 ,TyC Sports
-http://200.24.204.242:6020/play/a08q/index.m3u8
+http://177.53.153.21:8001/play/a03y/index.m3u8
 #EXTINF:-1 ,TyC Sports HD
 http://200.24.204.242:6020/play/a0e9/index.m3u8
 #EXTINF:-1 ,Universal
@@ -240,7 +240,7 @@ http://160.20.165.245:8000/play/a01b/index.m3u8
 #EXTINF:-1 ,MI MUSICA SALSA
 http://160.20.165.245:8000/play/a01a/index.m3u8
 #EXTINF:-1 ,NAT GEO
-http://160.20.165.245:8000/play/a00z/index.m3u8
+http://177.53.153.21:8001/play/a036/index.m3u8
 #EXTINF:-1 ,NTN 24
 http://160.20.165.245:8000/play/a00y/index.m3u8
 #EXTINF:-1 ,NUESTRA TELE
@@ -282,7 +282,7 @@ http://181.119.67.75:16123/play/ch04
 #EXTINF:-1 ,DISNEY JR
 http://181.119.67.75:16123/play/ch05
 #EXTINF:-1 ,TNT
-http://181.119.67.75:16123/play/a08i
+http://177.53.153.21:8001/play/a02b/index.m3u8
 #EXTINF:-1 ,INFANTIL
 http://181.119.67.75:16123/play/ch06
 #EXTINF:-1 ,STAR
@@ -292,7 +292,7 @@ http://181.119.67.75:16123/play/ch08
 #EXTINF:-1 ,EUROCHANNEL
 http://181.119.67.75:16123/play/ch09
 #EXTINF:-1 ,CINECANAL
-http://181.119.67.75:16123/play/ch10
+http://177.53.153.21:8001/play/a08n/index.m3u8
 #EXTINF:-1 ,MULTIPREMIER
 http://181.119.67.75:16123/play/ch11
 #EXTINF:-1 ,CINELATINO
@@ -372,7 +372,7 @@ http://181.119.67.75:16123/play/ch48
 #EXTINF:-1 ,CINE PREMIUM
 http://181.119.67.75:16123/play/ch49
 #EXTINF:-1 ,LOVE NATURE
-http://181.119.67.75:16123/play/ch50
+http://177.53.153.21:8001/play/a044/index.m3u8
 #EXTINF:-1 ,CINE HISPANO
 http://181.119.67.75:16123/play/ch51
 #EXTINF:-1 ,CINE FAMILIAR
@@ -419,26 +419,6 @@ http://181.119.67.75:16123/play/ch71
 http://181.119.67.75:16123/play/ch73
 #EXTINF:-1 ,EXTRA
 http://181.119.67.75:16123/play/ch90
-#EXTINF:-1 ,Cartoon Network HD
-http://181.119.67.75:16123/play/a068
-#EXTINF:-1 ,GLITZ
-http://181.119.67.75:16123/play/a06c
-#EXTINF:-1 ,HTV
-http://181.119.67.75:16123/play/a06b
-#EXTINF:-1 ,ISAT
-http://181.119.67.75:16123/play/a067
-#EXTINF:-1 ,Space HD
-http://181.119.67.75:16123/play/a066
-#EXTINF:-1 ,TBS Very Funny HD
-http://181.119.67.75:16123/play/a06d
-#EXTINF:-1 ,TNT
-http://181.119.67.75:16123/play/a064
-#EXTINF:-1 ,TNT Series HD
-http://181.119.67.75:16123/play/a065
-#EXTINF:-1 ,TRUTV HD
-http://181.119.67.75:16123/play/a06a
-#EXTINF:-1 ,Tooncast
-http://181.119.67.75:16123/play/a069
 #EXTINF:-1 ,A&E HD
 http://179.51.163.250:8000/play/a00l/index.m3u8
 #EXTINF:-1 ,AMC HD
@@ -788,7 +768,7 @@ http://138.59.177.34:8000/play/a036/index.m3u8
 #EXTINF:-1 ,Exa TV
 http://138.59.177.34:8000/play/a05a/index.m3u8
 #EXTINF:-1 ,FOX SPORTS 2 HD
-http://138.59.177.34:8000/play/a05k/index.m3u8
+http://177.53.153.21:8001/play/a02v/index.m3u8
 #EXTINF:-1 ,FOX SPORTS 3 HD
 http://138.59.177.34:8000/play/a073/index.m3u8
 #EXTINF:-1 ,FOX Sports 2
