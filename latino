@@ -25,14 +25,24 @@ http://170.81.240.10:8000/play/a006/index.m3u8
 http://170.81.240.10:8000/play/a007/index.m3u8
 #EXTINF:-1 ,USMP HD
 http://201.218.137.232:4123/play/a02b/index.m3u8
-#EXTINF:-1 ,Liga1 MAX HD
-http://179.51.163.250:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-name="PERU : Liga 1 MAX (1920) (EXCLUSIVO)"tvg-id=""tvg-logo="http://castlempire.site:8080/images/fa16a32fff5cfd974c0e0c860473a7f8.png"group-title="**LIGA PERU**⚽",PERU : Liga 1 MAX (1920) (EXCLUSIVO)
+http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/247397
+#EXTINF:-1 tvg-name="PER: Liga 1 (1920) (EXCLUSIVO) UHD\"tvg-id=""tvg-logo=""group-title="**LIGA PERU**⚽",PER: Liga 1 (1920) (EXCLUSIVO) UHD\
+http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/247398
+#EXTINF:-1 tvg-name="01 | LIGA 1 MAX"tvg-id=""tvg-logo="http://castlempire.site:8080/images/05cdc0afa07eb4e0a9dfd4c20a760481.jpg"group-title="Peru OP3",01 | LIGA 1 MAX
+http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/256886
+#EXTINF:-1 tvg-name="01 | LIGA 1 MAX FHD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/05cdc0afa07eb4e0a9dfd4c20a760481.jpg"group-title="Peru OP3",01 | LIGA 1 MAX FHD
+http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/256888
+#EXTINF:-1 tvg-name="01 | LIGA 1 MAX HD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/05cdc0afa07eb4e0a9dfd4c20a760481.jpg"group-title="Peru OP3",01 | LIGA 1 MAX HD
+http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/256889
 #EXTINF:-1 ,GLOBAL HD
 http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/2169944
 #EXTINF:-1 ,LA TELE HD
 http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/2107635
 #EXTINF:-1 ,GOLPERU HD
 http://177.53.153.21:8001/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="02 | GOL PERU FHD" tvg-logo="http://castlempire.site:8080/images/8309648923bf090f5ed7eb3c96b9ab9b.png" group-title="Peru OP3",02 | GOL PERU FHD
+http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/256890
 #EXTINF:-1 ,TL NOVELAS HD
 http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/154093
 #EXTINF:-1 ,Las Estrellas HD
