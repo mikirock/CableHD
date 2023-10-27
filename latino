@@ -28,7 +28,7 @@ http://38.56.220.254:8000/play/a008/index.m3u8
 #EXTINF:-1,14 LIGA 1 MAX HD
 http://190.102.139.244:8900/play/a12f/index.m3u8
 #EXTINF:-1,15 GOLPERU HD
-http://187.102.208.152:8000/play/a06u/index.m3u8
+http://177.53.153.21:8001/play/a03z/index.m3u8
 #EXTINF:-1,16 TL NOVELAS HD
 http://190.102.139.244:8900/play/a127/index.m3u8
 #EXTINF:-1,17 LAS ESTRELLAS HD
@@ -463,6 +463,10 @@ http://177.234.245.26:8000/play/a013/index.m3u8
 http://177.234.245.26:8000/play/a014/index.m3u8
 #EXTINF:-1,773 LIGA 1
 http://177.53.153.21:8001/play/a00h/index.m3u8
+#EXTINF:-1,774 RT ESPAÑOL
+http://160.20.165.245:8000/play/a00w/index.m3u8
+#EXTINF:-1,775 CNN MEXICO ESPAÑOL
+http://glowrestream.com:8080/tvcol002/vXbDoi5Or5/124473
 
 #EXTINF:-1,800 LIGA MAX 1
 http://190.187.154.156:8000/play/a0ca/index.m3u8
